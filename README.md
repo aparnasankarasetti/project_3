@@ -10,6 +10,7 @@
 *  Pyspark 2.4.8
 *  Git/GitHub
 *  kafka-python 2.0.2
+*  Kafka Python API is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
 ### problem statements
 List of features ready and TODOs for future development
 
