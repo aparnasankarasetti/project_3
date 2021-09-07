@@ -35,6 +35,6 @@ Spark depends on a external package for kafka integeration link
 
 bin/spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.1 spark_meetup.py localhost:2181 meetup An analysis of number of RSVPs from various cities in "US" region is performed on the RSVPs Stream.
  ### License
-* This project uses the following license:MIT License
+* This project uses the following license: MIT License
 ### References
 https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.0.1)
