@@ -17,5 +17,7 @@ List of features ready and TODOs for future development
 *  What are the current active cities in India which are scheduling Meetup Events?
 *  What are the trending topics in US Meetup Events?
 * How many Big data Meetup Events events scheduled in Mumbai?
+ ### License
+* This project uses the following license:
 ### References
 https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.0.1)
