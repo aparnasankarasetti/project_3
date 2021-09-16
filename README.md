@@ -15,7 +15,6 @@
 ### problem statements
 *  What are the current active cities in India which are scheduling Meetup Events?
 *  What are the trending topics in US Meetup Events?
-* How many Big data Meetup Events events scheduled in Mumbai?
 ### Execute the Application
 * Assuming Kafka and Spark of appropriate version is installed, the following commands are used to run the application.
 
