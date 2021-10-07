@@ -13,7 +13,7 @@
 *  Kafka Python API is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs
 
 ### problem statements
-*  What are the current active cities in India which are scheduling Meetup Events?
+*  What are the current active cities in US which are scheduling Meetup Events?
 *  What are the trending topics in US Meetup Events?
 ### Execute the Application
 * Assuming Kafka and Spark of appropriate version is installed, the following commands are used to run the application.
